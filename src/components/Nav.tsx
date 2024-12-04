@@ -5,7 +5,7 @@ function Nav() {
         <nav>
             <NavLink to="/">Home</NavLink>
             <NavLink to="/contact">Contact</NavLink>
-            <NavLink to="/work">Portfolio</NavLink>
+            <NavLink to="#work">Portfolio</NavLink>
         </nav>
     )
 }
